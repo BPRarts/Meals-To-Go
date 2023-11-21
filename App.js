@@ -6,8 +6,7 @@ import {
   StyleSheet,
   SafeAreaView,
   Text,
-  View,
-  Platform,
+  View
 } from "react-native";
 
 export default function App() {
